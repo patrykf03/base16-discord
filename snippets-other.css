@@ -33,11 +33,6 @@
   display: none !important;
 }
 
-.icon-3D60ES:hover {
-  color: #7289da;
-}
-
-
 .updateIconForeground-3tnNZn {fill: var(--interactive-normal)}
 .updateIconForeground-3tnNZn:hover {fill: var(--interactive-hover)}
 .updateIconForeground-3tnNZn:active {fill: var(--interactive-active)}
@@ -96,9 +91,6 @@
   text-align: center !important;
 }
 
-.repliedMessage-VokQwo .username-1A8OIy{
-  color: #7289da !important;
-}
 
 /* Badges */
 .headerInfo-30uryT > .profileBadges-2vWUYb { display: flex; flex-wrap: wrap; }
